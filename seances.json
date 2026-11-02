@@ -2,7 +2,7 @@
   "version": 1,
   "plans": {
     "2026-11-02|1|debutant": {
-      "title": "Séance 1",
+      "title": "Test publication",
       "focus": "",
       "warmup": [
         {
@@ -15,7 +15,53 @@
           "rest": 75
         }
       ],
-      "main": [],
+      "main": [
+        {
+          "id": "e-mvzjhudb-kdf7y",
+          "exerciseId": "pompes-classiques",
+          "mode": "time",
+          "reps": 10,
+          "sets": 3,
+          "seconds": 40,
+          "rest": 20
+        },
+        {
+          "id": "e-mvzjhv10-odpgh",
+          "exerciseId": "pompes-classiques",
+          "mode": "time",
+          "reps": 10,
+          "sets": 3,
+          "seconds": 40,
+          "rest": 20
+        },
+        {
+          "id": "e-mvzjhvje-5ynq3",
+          "exerciseId": "pompes-diamant",
+          "mode": "time",
+          "reps": 10,
+          "sets": 3,
+          "seconds": 40,
+          "rest": 20
+        },
+        {
+          "id": "e-mvzjhvy9-jc972",
+          "exerciseId": "pompes-avec-tape-d-epaule",
+          "mode": "time",
+          "reps": 10,
+          "sets": 3,
+          "seconds": 40,
+          "rest": 20
+        },
+        {
+          "id": "e-mvzjhwaa-04pa8",
+          "exerciseId": "pike-push-ups-pieds-sureleves",
+          "mode": "time",
+          "reps": 10,
+          "sets": 3,
+          "seconds": 40,
+          "rest": 20
+        }
+      ],
       "cooldown": []
     }
   },
