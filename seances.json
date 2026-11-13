@@ -1,5 +1,23 @@
 {
   "version": 1,
-  "plans": {},
+  "plans": {
+    "2026-11-09|1|debutant": {
+      "title": "Séance 1",
+      "focus": "",
+      "warmup": [
+        {
+          "id": "e-mwfjn84v-bkde0",
+          "exerciseId": "pike-push-ups",
+          "mode": "time",
+          "reps": 10,
+          "sets": 1,
+          "seconds": 30,
+          "rest": 0
+        }
+      ],
+      "main": [],
+      "cooldown": []
+    }
+  },
   "fiches": {}
 }
