@@ -139,6 +139,15 @@
           "sets": 1,
           "seconds": 30,
           "rest": 0
+        },
+        {
+          "id": "e-mwfl812n-vcm1i",
+          "exerciseId": "dips-sur-chaise-genoux-flechis",
+          "mode": "time",
+          "reps": 10,
+          "sets": 1,
+          "seconds": 30,
+          "rest": 0
         }
       ],
       "main": [],
