@@ -13,6 +13,15 @@
           "sets": 1,
           "seconds": 30,
           "rest": 0
+        },
+        {
+          "id": "e-mwfjnnxo-d2lks",
+          "exerciseId": "pike-push-ups",
+          "mode": "time",
+          "reps": 10,
+          "sets": 1,
+          "seconds": 30,
+          "rest": 0
         }
       ],
       "main": [],
