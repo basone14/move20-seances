@@ -22,6 +22,15 @@
           "sets": 1,
           "seconds": 30,
           "rest": 0
+        },
+        {
+          "id": "e-mwfmuqlj-2ypyn",
+          "exerciseId": "dips-sur-chaise",
+          "mode": "time",
+          "reps": 10,
+          "sets": 1,
+          "seconds": 30,
+          "rest": 0
         }
       ],
       "main": [],
