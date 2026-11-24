@@ -7,15 +7,6 @@
       "warmup": [],
       "main": [
         {
-          "id": "e-mwuwcqn6-2m9bu",
-          "exerciseId": "pompes-pieds-sureleves",
-          "mode": "time",
-          "reps": 10,
-          "sets": 3,
-          "seconds": 40,
-          "rest": 20
-        },
-        {
           "id": "e-mwuwcwjm-71o3a",
           "exerciseId": "demi-squats",
           "mode": "time",
