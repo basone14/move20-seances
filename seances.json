@@ -23,6 +23,24 @@
           "sets": 3,
           "seconds": 40,
           "rest": 20
+        },
+        {
+          "id": "e-mwuwgpxj-svsdf",
+          "exerciseId": "squats-pulses",
+          "mode": "time",
+          "reps": 10,
+          "sets": 3,
+          "seconds": 40,
+          "rest": 20
+        },
+        {
+          "id": "e-mwuwgr8p-977ln",
+          "exerciseId": "squats-pulses",
+          "mode": "time",
+          "reps": 10,
+          "sets": 3,
+          "seconds": 40,
+          "rest": 20
         }
       ],
       "cooldown": []
