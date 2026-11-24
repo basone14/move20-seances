@@ -14,6 +14,15 @@
           "sets": 3,
           "seconds": 40,
           "rest": 20
+        },
+        {
+          "id": "e-mwuwcwjm-71o3a",
+          "exerciseId": "demi-squats",
+          "mode": "time",
+          "reps": 10,
+          "sets": 3,
+          "seconds": 40,
+          "rest": 20
         }
       ],
       "cooldown": []
