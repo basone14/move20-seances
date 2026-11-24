@@ -1,5 +1,23 @@
 {
   "version": 1,
-  "plans": {},
+  "plans": {
+    "2026-11-23|1|debutant": {
+      "title": "Séance 1",
+      "focus": "",
+      "warmup": [],
+      "main": [
+        {
+          "id": "e-mwuwcqn6-2m9bu",
+          "exerciseId": "pompes-pieds-sureleves",
+          "mode": "time",
+          "reps": 10,
+          "sets": 3,
+          "seconds": 40,
+          "rest": 20
+        }
+      ],
+      "cooldown": []
+    }
+  },
   "fiches": {}
 }
